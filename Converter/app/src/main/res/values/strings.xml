@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lr1</string>
+    <string name="litres">Litres:</string>
+    <string name="ok_button">ok</string>
+    <string name="gallons">Gallons:</string>
+    <string name="help_button">help</string>
+    <string name="info">В 10 литра - 2.64 галлона</string>
+</resources>
